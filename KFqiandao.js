@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name              koharu机场
-// @namespace         https://bilibili.alicization.org
+// @namespace         https://github.com/hclchimumu/sign-in-script/blob/master/KFqiandao.js
 // @version           1.0.0
 // @author            chimumu
 // @loginURL          https://bilibili.alicization.org/auth/login
